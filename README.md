@@ -192,3 +192,6 @@ plt.show()
 
 <img width="1054" height="725" alt="image" src="https://github.com/user-attachments/assets/140ba263-b179-48e2-8a05-f10fe4851b3c" />
 ```
+
+Step 6: Answering the question.
+Based on the visualizations, Instrumentation and Microelectronics students score higher on average compared to those in Communication. Gender differences are minimal, though females in Communication and Microelectronics perform slightly better. Luzon students lead in average grades, followed by Visayas and then Mindanao. Overall, track and hometown influence performance more strongly than gender.
